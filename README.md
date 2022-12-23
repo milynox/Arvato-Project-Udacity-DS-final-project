@@ -46,7 +46,7 @@ The data is provided by Bertelsmann Arvato Analytics, and it cannot be publicly 
 ```
 
 ## Results
-The main findings are included in this [repo]() and my [notion post](https://milynox.notion.site/milynox/Customer-Segmentation-Report-for-Arvato-Financial-Services-d27c54f19d144232b734a4ece0cf2598).
+The main findings are included in this [repo](https://github.com/milynox/Arvato-Project-Udacity-DS-final-project) and my [notion post](https://milynox.notion.site/milynox/Customer-Segmentation-Report-for-Arvato-Financial-Services-d27c54f19d144232b734a4ece0cf2598).
 
 ## License and Acknowledgement
 This project is part of the Udacity Data Scientist Nanodegree program. Thanks Bertelsmann Arvato Analytics for providing the data.
